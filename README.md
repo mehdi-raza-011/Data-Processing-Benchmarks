@@ -10,7 +10,7 @@ Compiler: MinGW (GCC/G++) via Code::Blocks
 
 Language Standard: C++17
 
-⚠️ Important: All .cpp files, header files (e.g., file_reader.h), and generated .csv datasets must reside in the exact same directory for the relative paths to resolve correctly.
+⚠️ Important: All .cpp files, header files (e.g., file_reader.h), and generated .csv datasets must reside in the exact same directory for the relative paths to resolve correctly. Datasets provided are only as examples.
 
 Step 0: Set Compiler Path
 Before compiling any modules, open cmd in the project directory and configure your compiler path:
